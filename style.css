@@ -1,0 +1,54 @@
+h2 {
+    font-size: 25px;
+    margin: 30px 20px 5px 30px;   
+}
+.fundo {
+    background-color: #000080;
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+       
+}
+.tabela-fundo{
+    background-color: aliceblue; 
+    border-radius: 5px;
+    border-style: outset;
+    border-color:aliceblue; 
+}
+.tabela-moda {
+    background-color:aliceblue;
+    margin: 10px 30px;   
+}
+.tabela-casa {
+    background-color: aliceblue;
+    margin: 10px 30px 30px;    
+}
+.nome-cabecalho-moda {
+    background-color: #bb86fc;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+
+.nome-cabecalho-casa {
+    background-color: #00c4b4;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+.nome-tamanho {
+    color: aliceblue;
+    padding: 8px;
+    background-color: #424250;
+    
+}
+.nome-preco {
+    color: aliceblue;
+    padding: 8px;
+    background-color: #424250;
+}
+.nome-produto {
+    color: aliceblue;
+    padding: 8px;
+    background-color: #424250;
+}
